@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad Mohsin Parvez
-- 👀 I’m cloud computing & DEVOPS
+- 👀 I’m interested cloud computing & DEVOPS
 - 🌱 I’m AI Automation in Networking....
 - 💞️ I’m looking to collaborate on open sources
 - 📫 How to reach me ...
